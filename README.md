@@ -1,4 +1,4 @@
 # Generic-vendor-images
 Generic vendor image (GVI), similar to Generic System image(GVI)
 ### limitation:
-Same chipset, architecture, core, etc.
+The architecture, core, and chipset must be highly similar
